@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Download\New folder\BARCODE\BarcodeReaderVer2-master\BarcodeReaderVer2-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Download\New folder\BARCODE\BarcodeReaderVer2-master\BarcodeReaderVer2-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_34a557d856b75a6f6ab46f96266ee1843b04624a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Download\New folder\BARCODE\BarcodeReaderVer2-master\BarcodeReaderVer2-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="34b45478c2abcc70269cb7e7561d906159c5498e">
+        <dex dex="D:\Download\New folder\BARCODE\BarcodeReaderVer2-master\BarcodeReaderVer2-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1aa40db8ef4d6b9dee3f6fb7c4a365875b09a2d6\classes.dex" />
+    </item>
+
+</items>
